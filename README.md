@@ -4,6 +4,6 @@ DataProjects
 Experimental data work
 
 ## Tom Gaylor
-* wtgaylot@gmail.com
+* wtgaylor@gmail.com
 * tom.gaylor@intel.com
 
